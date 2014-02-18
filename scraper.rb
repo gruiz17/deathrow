@@ -36,7 +36,6 @@ rows[1..(rows.length-1)].each do |row|
       statement = statement_page.css('div#body p')[statement_index+1..-1].text
       statements << statement + "\n"
     end
-
     if (el.css('a').empty?)
       csv_row << el.text
     end
@@ -44,4 +43,4 @@ rows[1..(rows.length-1)].each do |row|
   my_csv << csv_row
 end
 
-statements.close()
+statements.close
