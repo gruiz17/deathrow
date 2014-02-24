@@ -37,7 +37,7 @@ rows[1..(rows.length-1)].each do |row|
       statements << statement + "\n"
     end
     if (el.css('a').empty?)
-      csv_row << el.text
+      csv_row << el.text.strip
     end
   end
   my_csv << csv_row

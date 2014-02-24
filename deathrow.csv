@@ -3,7 +3,7 @@ Execution,Last Name,First Name,TDCJ Number,Age,Date,Race,County
 509,Tamayo,Edgar,999130,46,01/22/2014,Hispanic,Harris
 508,Martin,Jerry,999552,43,12/03/2013,White,Leon
 507,McCoskey,Jamie,999053,49,11/12/2013,White,Harris
-506,Yowell,Michael,999334,43,10/09/2013,White ,Lubbock
+506,Yowell,Michael,999334,43,10/09/2013,White,Lubbock
 505,Diaz,Arturo,999345,37,09/26/2013,Hispanic,Hidalgo
 504,Garza,Robert,999466,30,09/19/2013,Hispanic,Hidalgo
 503,Feldman,Douglas,999326,55,07/31/2013,White,Dallas
@@ -55,8 +55,8 @@ Execution,Last Name,First Name,TDCJ Number,Age,Date,Race,County
 457,Cannady,Rogelio,999245,37,05/19/2010,Hispanic,Bee
 456,Galloway,Billy,999349,41,05/13/2010,White,Hunt
 455,Varga,Kevin,999368,41,05/12/2010,White,Hunt
-454,Bustamante,Samuel,999380,40,04/27/2010,Hispanic,Fort Bend 
-453,Berkley,William,999422,31,04/22/2010,White,El Paso 
+454,Bustamante,Samuel,999380,40,04/27/2010,Hispanic,Fort Bend
+453,Berkley,William,999422,31,04/22/2010,White,El Paso
 452,Alix,Franklin,999286,34,03/30/2010,Black,Harris
 451,Maxwell,Joshua,999408,31,03/11/2010,White,Bexar
 450,Sigala,Michael,999397,32,03/02/2010,Hispanic,Collin
@@ -81,14 +81,14 @@ Execution,Last Name,First Name,TDCJ Number,Age,Date,Race,County
 431,Johnson,Johnny,999197,51,02/12/2009,Black,Harris
 430,Scheanette,Dale,999440,35,02/10/2009,Black,Tarrant
 429,Martinez,David,999173,36,02/04/2009,Hispanic,Bexar
-428,Ortiz,Ricardo,999320,46,01/29/2009,Hispanic,El Paso 
+428,Ortiz,Ricardo,999320,46,01/29/2009,Hispanic,El Paso
 427,Martinez,Virgil,999265,41,01/28/2009,Hispanic,Brazoria
 426,Perkins,Reginald,999407,53,01/22/2009,Black,Tarrant
 425,Moore,Frank,999210,49,01/21/2009,Black,Bexar
 424,Moore,Curtis,999212,40,01/14/2009,Black,Tarrant
 423,Hudson,Robert,999353,45,11/20/2008,Black,Dallas
 422,Manns,Denard,999405,42,11/13/2008,Black,Bell
-421,Whitaker III ,George,999196,36,11/12/2008,Black,Harris
+421,Whitaker III,George,999196,36,11/12/2008,Black,Harris
 420,Taylor,Elkie,999112,46,11/6/2008,Black,Tarrant
 419,Wright,Gregory,999253,42,10/30/2008,White,Dallas
 418,Nenno,Eric,999188,45,10/28/2008,White,Harris
@@ -238,29 +238,29 @@ Execution,Last Name,First Name,TDCJ Number,Age,Date,Race,County
 274,Williams,Jeffrey,999154,30,06/26/2002,Black,Harris
 273,Coulson,Robert,999115,34,06/25/2002,White,Harris
 272,Reneau,Daniel,999223,27,06/13/2002,White,Gillespie
-271,"Baker, Jr.",Stanley,999157 ,35 ,05/30/2002,White,Brazos 
-270,Beazley,Napoleon,999141 ,25 ,05/28/2002,Black,Smith 
-269,Martinez,Johnny,999089 ,29 ,05/22/2002,Hispanic,Nueces 
-268,Styron,Ronford,999124 ,32,05/16/2002,White,Liberty 
-267,Reeves,Reginald,999119 ,28 ,05/09/2002,Black,Red River 
-266,Hernandez,Rodolfo,807 ,54 ,04/30/2002,Hispanic,Comal 
-265,Casey,Gerald,999013 ,47 ,04/18/2002,White,Montgomery 
-264,Burns,William,692 ,43 ,04/11/2002,Black,Bowie 
-263,"Santellan, Sr.",Jose,999140 ,40 ,04/10/2002,Hispanic,Kerr 
-262,Tigner,Gerald,999099 ,29 ,03/07/2002,Black,McLennan 
-261,Delk,Monty,900 ,35 ,02/28/2002,White,Anderson 
-260,"Hafdahl, Sr.",Randall,826 ,48 ,01/31/2002,White,Randall 
-259,Broussard,Windell,999064 ,41 ,01/30/2002,Black,Jefferson 
-258,Arnold,Jermarr,987 ,43 ,01/16/2002,Black,Nueces 
-257,Moore,Michael,999126 ,31 ,01/09/2002,White,Coryell 
-256,Cooks,Vincent,927 ,37 ,12/12/2001,Black,Dallas 
-255,Rudd,Emerson,936 ,31 ,11/15/2001,Black,Dallas 
-254,Tucker,Jeffery,952 ,41 ,11/14/2001,White,Parker 
-253,Mitchell,Gerald,838 ,33 ,10/22/2001,Black,Harris 
-252,Knox,James,823 ,50 ,09/18/2001,White,Galveston 
-251,Doughtie,Jeffery,999106 ,39 ,08/16/2001,White,Nueces 
-250,Hill,Mack,961 ,47 ,08/08/2001,White,Lubbock 
-249,Wilkens,James,897 ,39 ,07/11/2001,White,Smith 
+271,"Baker, Jr.",Stanley,999157,35,05/30/2002,White,Brazos
+270,Beazley,Napoleon,999141,25,05/28/2002,Black,Smith
+269,Martinez,Johnny,999089,29,05/22/2002,Hispanic,Nueces
+268,Styron,Ronford,999124,32,05/16/2002,White,Liberty
+267,Reeves,Reginald,999119,28,05/09/2002,Black,Red River
+266,Hernandez,Rodolfo,807,54,04/30/2002,Hispanic,Comal
+265,Casey,Gerald,999013,47,04/18/2002,White,Montgomery
+264,Burns,William,692,43,04/11/2002,Black,Bowie
+263,"Santellan, Sr.",Jose,999140,40,04/10/2002,Hispanic,Kerr
+262,Tigner,Gerald,999099,29,03/07/2002,Black,McLennan
+261,Delk,Monty,900,35,02/28/2002,White,Anderson
+260,"Hafdahl, Sr.",Randall,826,48,01/31/2002,White,Randall
+259,Broussard,Windell,999064,41,01/30/2002,Black,Jefferson
+258,Arnold,Jermarr,987,43,01/16/2002,Black,Nueces
+257,Moore,Michael,999126,31,01/09/2002,White,Coryell
+256,Cooks,Vincent,927,37,12/12/2001,Black,Dallas
+255,Rudd,Emerson,936,31,11/15/2001,Black,Dallas
+254,Tucker,Jeffery,952,41,11/14/2001,White,Parker
+253,Mitchell,Gerald,838,33,10/22/2001,Black,Harris
+252,Knox,James,823,50,09/18/2001,White,Galveston
+251,Doughtie,Jeffery,999106,39,08/16/2001,White,Nueces
+250,Hill,Mack,961,47,08/08/2001,White,Lubbock
+249,Wilkens,James,897,39,07/11/2001,White,Smith
 248,Richardson,Miguel,691,46,06/26/2001,Black,Bexar
 247,Wheat,John,999222,57,06/13/2001,White,Tarrant
 246,Goff,David,999015,31,04/25/2001,Black,Tarrant
