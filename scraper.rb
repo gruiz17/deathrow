@@ -16,7 +16,7 @@ statements = File.new("statements.txt", "w")
 csv_header = []
 rows[0].css('th').each do |header|
   if header.text != "Link"
-    csv_header << header.text
+    csv_header << header.text.downcase
   end
 end
 my_csv << csv_header
