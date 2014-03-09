@@ -4,4 +4,4 @@ A scraper built with Ruby/Nokogiri to scrape some info from the [List of Execute
 
 Included: scraper code, original csv output, cleaned csv output without whitespace, textfile with all the last statements.
 
-Coming soon: data analysis/random facts.
+Some data visualizations done [here](http://ggruiz.me/plots-and-shenanigans/deathrow/).
